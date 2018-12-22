@@ -2,7 +2,7 @@
 #    List of ARM CPU IDs
 #    in a format similar to pci.ids/usb.ids.
 #
-#    Version: 2018.12.18
+#    Version: 2018.12.22
 #    Maintained by: Burt P. (pburt0@gmail.com)
 #    https://github.com/bp0/armids
 #
@@ -120,6 +120,7 @@
 	2c3 i80321-600-B0
 	2d0 PXA250C/PXA255/PXA26x
 	2d2 PXA210C
+	2e3 i80219
 	411 PXA27x
 	41c IPX425-533
 	41d IPX425-400
