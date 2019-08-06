@@ -2,7 +2,7 @@
 #    List of ARM CPU IDs
 #    in a format similar to pci.ids/usb.ids.
 #
-#    Version: 2018.12.22
+#    Version: 2019.08.05
 #    Maintained by: Burt P. (pburt0@gmail.com)
 #    https://github.com/bp0/armids
 #
@@ -65,9 +65,12 @@
 	d08 Cortex-A72
 	d09 Cortex-A73
 	d0a Cortex-A75
+	d0b Cortex-A76
+	d0c Neoverse-N1
 	d13 Cortex-R52
 	d20 Cortex-M23
 	d21 Cortex-M33
+	d4a Neoverse-E1
 42 Broadcom
 	00f Brahma B15
 	100 Brahma B53
