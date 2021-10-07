@@ -67,6 +67,7 @@
 	d0a Cortex-A75
 	d0b Cortex-A76
 	d0c Neoverse-N1
+	d0d Cortex-A77
 	d13 Cortex-R52
 	d20 Cortex-M23
 	d21 Cortex-M33
@@ -99,6 +100,9 @@
 	211 Kryo
 	800 Falkor V1/Kryo
 	801 Kryo V2
+	802 Kryo 3xx gold
+	803 Kryo 3xx silver
+	805 Kryo 5xx silver
 	c00 Falkor
 	c01 Saphira
 53 Samsung
