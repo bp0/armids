@@ -1,12 +1,12 @@
 
 CFLAGS = -O2 -Wall -Wextra -Wmissing-prototypes -Wstrict-prototypes -Werror=implicit-function-declaration -Werror=missing-prototypes
 
-armid : armid.c
-	-rm armid
+.PHONY: all clean
+
+all : armid
+
+armid : clean armid.c
 	cc -o armid armid.c
 
-all: armid
-
-.PHONY : all
 clean :
-	-rm armid
+	@rm -f armid
